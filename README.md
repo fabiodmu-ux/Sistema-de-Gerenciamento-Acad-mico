@@ -32,5 +32,5 @@ Para executar este projeto localmente, sua máquina precisará atender aos segui
 
 1. **Clone o repositório ou baixe os arquivos:**
    ```bash
-   git clone https://github.com/fabiodmu-ux/Sistema-de-Gerenciamento-Acad-mico.git
+   https://github.com/fabiodmu-ux/Sistema-de-Gerenciamento-Acad-mico.git
    cd Sistema-de-Gerenciamento-Acad-mico
