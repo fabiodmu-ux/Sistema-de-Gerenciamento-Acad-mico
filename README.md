@@ -30,10 +30,7 @@ Para executar este projeto localmente, sua máquina precisará atender aos segui
 
 ## 🚀 Como Executar o Sistema (Produção)
 
-Siga o passo a passo abaixo para rodar a aplicação principal no seu ambiente local:
-
 1. **Clone o repositório ou baixe os arquivos:**
-   Abra o seu terminal e navegue até a pasta onde deseja alocar o projeto.
    ```bash
-   git clone [https://github.com/seu-usuario/sistema-academico.git](https://github.com/seu-usuario/sistema-academico.git)
-   cd sistema-academico
+   git clone https://github.com/fabiodmu-ux/Sistema-de-Gerenciamento-Acad-mico.git
+   cd Sistema-de-Gerenciamento-Acad-mico
